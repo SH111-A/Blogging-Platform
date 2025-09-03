@@ -35,7 +35,9 @@ A full-stack blogging platform that allows users to create, customize, and publi
 ## 📂 Project Structure
 ﻿vaidsys/
 │── frontend/ # React or Vue client
+
 │── backend/ # Node.js or Django server
+
 │── README.md # Project documentation
 
 
@@ -46,6 +48,7 @@ A full-stack blogging platform that allows users to create, customize, and publi
 ### 1. Clone the repository
 git clone https://github.com/SH111-A/Blogging-Platform.git
 cd Blogging-Platform
+
 2. Setup Backend
 cd backend
 npm install
@@ -80,5 +83,6 @@ This project is licensed under the MIT License.
 ---
 
 👉 Do you also want me to include a **`.gitignore` file** (for ignoring `node_modules`, `.env`, etc.) so your repo stays clean?
+
 
 
